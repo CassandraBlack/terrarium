@@ -7,9 +7,8 @@ a practicar las bases del código HTML + CSS + JS 💗
 
 ## Autor
 <img 
-    src="https://avatars.githubusercontent.com/u/90455420?v=4" 
-    alt="Ivan Rivalcoba" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOReUayJsjOls5u0rPpG_l6asS90hmSy5aoQ&s" 
+    alt="Roweena Isadora" 
     width="200"/>
 
-Soy un desarrallor web apasionado con la tecnología si me quieres
-contactar, escribeme a este correo 👉 jorge.rr@gamadero.tecnm.mx
+Soy una estudiante de programación web👉 isawoodspines@gmail.com
